@@ -1,1 +1,0 @@
-print ('visual studio code를 사용한 연습')
