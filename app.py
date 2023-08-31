@@ -1,4 +1,4 @@
-from myclass import Person
+from graph.myclass import Person
 from pickle import dump
 import os.path  # 경로를 만들어줌
 
