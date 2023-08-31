@@ -3,10 +3,10 @@
 $ git init
 
 필요하다면 다음의 명령을 사용하여 환경변수를 등록하세요.
-$ git config --local user.email 'cupid072@naver.com'
+$ git config --local user.email 'xodbs1123@naver.com'
 $ git config --local user.name 'YOUR NAME'
 
-$ git remote add origin https://github.com/cupid072/day05.git
+$ git remote add origin https://github.com/xodbs1123/python.git
 
 $ git pull origin master
 

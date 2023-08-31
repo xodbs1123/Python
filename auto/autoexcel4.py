@@ -3,7 +3,7 @@ import os.path
 
 
 products = [
-{'name': 'CPU', 'count': 100, 'price': 35c:\Users\User\Downloads\VCE프로그램 (2).zip0000},
+{'name': 'CPU', 'count': 100, 'price': 350000},
 {'name': 'BOARD', 'count': 120, 'price': 125000},
 {'name': 'RAM', 'count': 98, 'price': 60000},
 {'name': 'SSD', 'count': 85, 'price': 95000},
